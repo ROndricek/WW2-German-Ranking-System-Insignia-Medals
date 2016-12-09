@@ -1,0 +1,28 @@
+html{
+    background-color: #8c8989;
+    color: #4248f4;
+}
+
+body{
+    margin:0;
+    padding: 0;
+}
+
+ul{
+    list-style: none;
+    background-color: #000000;
+    height: 50px;
+}
+
+li{
+   display: inline-block;
+   width: 100px;
+   margin-top: 10px;
+}
+
+li a{
+    font-family: helvetica;
+    color: white;
+    text-decoration: none;
+}
+
